@@ -1,0 +1,4 @@
+0 Powdery Mildew Cotton Disease
+1 Blight Cotton Plant Disease
+2 Cotton Healthy Plant Leaf
+3 target spot Cotton plant
